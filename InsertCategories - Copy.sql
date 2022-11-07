@@ -1,7 +1,7 @@
 USE [Catalog]
 GO
 
-INSERT INTO [dbo].[categoriesCSV]
+INSERT INTO [dbo].[Categories]
            ([Id]
            ,[Name]
            ,[Description])
