@@ -1,0 +1,31 @@
+﻿Id,Name,Description,ProductCategoryId,Price
+1,Adidas,stylish and comfortable (men),1,100
+2,Steve Madden Boots,black (women) ,1,120
+3,Uggs ,brown boots ( women),1,150
+4,Reebok,white (men),1,110
+5,North Face Coat,black ( women) ,2,170
+6,Columbia Jacket,dark blue (women),2,160.6
+7,Adidas Hoodie,green (kids),2,25
+8,Hi Hat,light blue (kids),2,14.99
+9,Michael Kors ,black ( for women) ,3,300
+10,Uggs ,black ( for women) ,1,160
+11,Dior,classic bag ,3,400
+12,Hoodie,grey (men),2,40
+13,Reversable Coat,black and white on the other side,2,88
+14,Iphone 12 Pro,"128 GB, black ",4,650
+15,Galaxy Z Flip 4,128 GB black,4,1000
+16,Galaxy S22,256 GB white,4,1400
+17,Iphone 12 Pro Charger,fast charge,4,45
+18,Fun Hat,green (kids),2,20
+19,Samsung 22 Charger,charges quickly,4,50
+20,Dove Face Cream,great for moisturizing,5,15
+21,Cetaphil,face cleanser - great for acne,5,10
+22,Fall Coat,grey (for women),2,50
+23,Garnier,toner - pink color,5,4
+24,Gloves,black (kids),2,6.5
+25,Zara Tote Bag,good quality (in brown),3,45
+26,Cooking Pot,great quality - non stick,6,40
+27,Bowl,large red bowl,6,5.5
+28,Cups Set ,6 white cups,6,10
+29,Baking pan,large size - grey color,6,4
+30,New Balance Sneakers,grey (men),1,110
